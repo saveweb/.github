@@ -1,1 +1,1 @@
-A purely public interest project, to backup or archive various websites that might otherwise be lost.
+A small web-archive group dedicated to preserving knowledge, information, and data of all kinds.
