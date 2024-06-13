@@ -14,6 +14,7 @@ A small web-archive group dedicated to preserving knowledge, information, and da
 - https://github.com/saveweb/review-2023 ![GitHub stars](https://img.shields.io/github/stars/saveweb/review-2023)
 - https://github.com/saveweb/review-2022 ![GitHub stars](https://img.shields.io/github/stars/saveweb/review-2022)
 - https://github.com/saveweb/review-2021 ![GitHub stars](https://img.shields.io/github/stars/saveweb/review-2021)
+- https://github.com/saveweb/discuz-logger ![GitHub stars](https://img.shields.io/github/stars/saveweb/discuz-logger)
 - https://github.com/saveweb/general-writing-laws ![GitHub stars](https://img.shields.io/github/stars/saveweb/general-writing-laws)
 - https://github.com/saveweb/saveweb-search-frontend ![GitHub stars](https://img.shields.io/github/stars/saveweb/saveweb-search-frontend)
 - https://github.com/saveweb/saveweb-search-backend ![GitHub stars](https://img.shields.io/github/stars/saveweb/saveweb-search-backend)
@@ -24,3 +25,7 @@ A small web-archive group dedicated to preserving knowledge, information, and da
 ## Utils
 
 - https://github.com/saveweb/solar_tracker
+- https://github.com/saveweb/stwp-mongodb-helper
+- https://github.com/saveweb/biliarchiverbot
+- https://github.com/saveweb/is-github-page
+- ...
