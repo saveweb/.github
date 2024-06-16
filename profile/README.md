@@ -1,4 +1,4 @@
-A small web-archive group dedicated to preserving knowledge, information, and data of all kinds.
+ʇɔǝɾoɹԀ qǝM ǝɥʇ ǝʌɐS - A small web-archive group dedicated to preserving knowledge, information, and data of all kinds.
 
 ## Tools for archivists
 
