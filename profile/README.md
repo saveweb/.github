@@ -22,7 +22,8 @@
 - https://github.com/saveweb/rss-list ![GitHub stars](https://img.shields.io/github/stars/saveweb/rss-list)
 - https://github.com/saveweb/schroedinger-extractor ![GitHub stars](https://img.shields.io/github/stars/saveweb/schroedinger-extractor)
 - ...
-
+- More repositories are available on our Gitea instance: [https://git.saveweb.org/](https://git.saveweb.org/saveweb/)
+- ...
 ## Utils
 
 - https://github.com/saveweb/solar_tracker
